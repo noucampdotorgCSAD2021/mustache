@@ -4,11 +4,11 @@
 
 ## Download OR Clone the Mustache Repository
 
-1.	Download the *Mustache* repository from [here](https://github.com/noucampdotorgCSAD2020/Mustache) and put into your ``htdocs`` folder
+1.	Download the *Mustache* repository from [here](https://github.com/noucampdotorgCSAD2021/mustache) and put into your ``htdocs`` folder
 
-	**OR**
+	<!-- **OR**
 
-	Copy the clone URL from your new repository [https://github.com/noucampdotorgCSAD2020/Mustache](https://github.com/noucampdotorgCSAD2020/Mustache) and then type these commands into your *Git Bash* client:
+	Copy the clone URL from your new repository [https://github.com/noucampdotorgCSAD2021/mustache](https://github.com/noucampdotorgCSAD2021/mustache) and then type these commands into your *Git Bash* client:
 
 	```
 	$ cd /<DRIVE>/xampp/htdocs   
@@ -17,7 +17,7 @@
 	$ ls
 	$ git status
 
-	```
+	``` -->
 
 	Check your ``htdocs`` folder.  You should have a new folder called ``mustache`` with some files in it.
 
